@@ -1,6 +1,5 @@
 theme: jekyll-theme-hacker
 paginate: 5
-webrick:
-  headers:
-    My-Header: Kehao's Blog
-    My-Other-Header: 一些岁岁散散
+title: Kehao's Blog
+description: 一些岁岁散散
+google_analytics: UA-60236420-14
