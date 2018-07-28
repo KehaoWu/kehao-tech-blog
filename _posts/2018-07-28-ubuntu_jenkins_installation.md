@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ubuntu安装Jenkins
+author: Kehao Wu
 tags:
  - Ubuntu
  - Jenkins

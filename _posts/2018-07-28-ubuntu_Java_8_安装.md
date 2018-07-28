@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ubuntu 16安装java 8
+author: Kehao Wu
 ---
 
 ```
